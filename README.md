@@ -1,4 +1,3 @@
-Certainly! Here's a README.md template you can use for your Love Calculator application on GitHub:
 
 ```markdown
 # Love Calculator
