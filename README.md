@@ -41,7 +41,7 @@ This Love Calculator calculates the love percentage between two partners based o
 1. Run the Python script:
 
    ```bash
-   python love_calculator.py
+   python main.py
    ```
 
 2. Enter the names of both partners.
