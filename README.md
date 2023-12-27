@@ -2,8 +2,6 @@
 ```markdown
 # Love Calculator
 
-![Love Calculator](link_to_your_image.png)
-
 A simple Love Calculator app using Python's Tkinter.
 
 ## Overview
