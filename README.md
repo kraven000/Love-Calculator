@@ -19,7 +19,7 @@ This Love Calculator calculates the love percentage between two partners based o
 
 ### Prerequisites
 
-- Python (version X.X.X)
+- Python
 - Tkinter (Python's standard GUI toolkit)
 
 ### Installation
